@@ -1,0 +1,27 @@
+.foto1 {
+    background: url(https://cdn.pixabay.com/photo/2017/02/25/15/44/ski-2098124__480.jpg);
+    height: 250px;
+}
+
+.foto2 {
+    background: url(https://cdn.pixabay.com/photo/2017/01/03/15/11/gondola-1949683__480.jpg);
+    height: 250px;
+}
+
+.foto3 {
+    background: url(https://cdn.pixabay.com/photo/2021/12/26/00/40/snow-6894036__480.jpg);
+    height: 250px;
+}
+
+.foto4 {
+    background: url(https://cdn.pixabay.com/photo/2017/02/24/11/54/home-2094592__480.jpg);
+    height: 250px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    background-color: rgba(201, 218, 218, 0.384);
+}
